@@ -1,0 +1,7 @@
+@media screen and (max-width: 992px) {
+    .nav-ul-edit {
+        justify-content: space-between;
+        border-bottom: 2px solid rgba(61, 108, 147, 0.3411764706);
+        padding-bottom: 15px;
+    }
+}
